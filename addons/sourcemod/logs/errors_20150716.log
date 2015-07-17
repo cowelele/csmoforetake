@@ -1,0 +1,34 @@
+L 07/16/2015 - 00:43:09: SourceMod error session started
+L 07/16/2015 - 00:43:09: Info (map "cs_motel") (file "errors_20150716.log")
+L 07/16/2015 - 00:43:09: Error log file session closed.
+L 07/16/2015 - 00:43:10: SourceMod error session started
+L 07/16/2015 - 00:43:10: Info (map "cs_motel") (file "errors_20150716.log")
+L 07/16/2015 - 00:43:10: [retakes.smx] The retakes config file (addons/sourcemod/configs/retakes/cs_motel.cfg) does not exist
+L 07/16/2015 - 00:44:06: [retakes.smx] This map does not have enough spawns!
+L 07/16/2015 - 00:44:06: [retakes.smx] Had to resort to fallback spawn on cs_motel, site=0
+L 07/16/2015 - 00:44:06: [retakes.smx] Failed to get any spawn on cs_motel, site=0, team=2
+L 07/16/2015 - 00:44:24: [retakes.smx] This map does not have enough spawns!
+L 07/16/2015 - 00:44:24: [retakes.smx] Had to resort to fallback spawn on cs_motel, site=0
+L 07/16/2015 - 00:44:24: [retakes.smx] Failed to get any spawn on cs_motel, site=0, team=2
+L 07/16/2015 - 00:44:42: [retakes.smx] This map does not have enough spawns!
+L 07/16/2015 - 00:44:42: [retakes.smx] Had to resort to fallback spawn on cs_motel, site=0
+L 07/16/2015 - 00:44:42: [retakes.smx] Failed to get any spawn on cs_motel, site=0, team=2
+L 07/16/2015 - 00:45:00: [retakes.smx] This map does not have enough spawns!
+L 07/16/2015 - 00:45:00: [retakes.smx] Had to resort to fallback spawn on cs_motel, site=0
+L 07/16/2015 - 00:45:00: [retakes.smx] Failed to get any spawn on cs_motel, site=0, team=2
+L 07/16/2015 - 00:45:18: [retakes.smx] This map does not have enough spawns!
+L 07/16/2015 - 00:45:18: [retakes.smx] Had to resort to fallback spawn on cs_motel, site=0
+L 07/16/2015 - 00:45:18: [retakes.smx] Failed to get any spawn on cs_motel, site=0, team=2
+L 07/16/2015 - 00:45:36: [retakes.smx] This map does not have enough spawns!
+L 07/16/2015 - 00:45:36: [retakes.smx] Had to resort to fallback spawn on cs_motel, site=0
+L 07/16/2015 - 00:45:36: [retakes.smx] Failed to get any spawn on cs_motel, site=0, team=2
+L 07/16/2015 - 00:45:54: [retakes.smx] This map does not have enough spawns!
+L 07/16/2015 - 00:45:54: [retakes.smx] Had to resort to fallback spawn on cs_motel, site=0
+L 07/16/2015 - 00:45:54: [retakes.smx] Failed to get any spawn on cs_motel, site=0, team=2
+L 07/16/2015 - 00:46:12: [retakes.smx] This map does not have enough spawns!
+L 07/16/2015 - 00:46:12: [retakes.smx] Had to resort to fallback spawn on cs_motel, site=0
+L 07/16/2015 - 00:46:12: [retakes.smx] Failed to get any spawn on cs_motel, site=0, team=2
+L 07/16/2015 - 00:46:30: [retakes.smx] This map does not have enough spawns!
+L 07/16/2015 - 00:46:30: [retakes.smx] Had to resort to fallback spawn on cs_motel, site=0
+L 07/16/2015 - 00:46:30: [retakes.smx] Failed to get any spawn on cs_motel, site=0, team=2
+L 07/16/2015 - 00:46:38: [retakes.smx] This map does not have enough spawns!

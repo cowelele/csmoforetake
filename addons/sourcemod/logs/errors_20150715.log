@@ -1,0 +1,10 @@
+L 07/15/2015 - 23:49:43: SourceMod error session started
+L 07/15/2015 - 23:49:43: Info (map "cs_motel") (file "errors_20150715.log")
+L 07/15/2015 - 23:49:43: [retakes.smx] The retakes config file (addons/sourcemod/configs/retakes/cs_motel.cfg) does not exist
+L 07/15/2015 - 23:50:12: [retakes.smx] This map does not have enough spawns!
+L 07/15/2015 - 23:50:12: [retakes.smx] Had to resort to fallback spawn on cs_motel, site=0
+L 07/15/2015 - 23:50:12: [retakes.smx] Failed to get any spawn on cs_motel, site=0, team=2
+L 07/15/2015 - 23:50:30: [retakes.smx] This map does not have enough spawns!
+L 07/15/2015 - 23:50:30: [retakes.smx] Had to resort to fallback spawn on cs_motel, site=0
+L 07/15/2015 - 23:50:30: [retakes.smx] Failed to get any spawn on cs_motel, site=0, team=2
+L 07/15/2015 - 23:50:34: [retakes.smx] This map does not have enough spawns!

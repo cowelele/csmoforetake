@@ -1,0 +1,30 @@
+L 07/15/2015 - 00:06:16: SourceMod log file session started (file "L20150715.log") (Version "1.7.2")
+L 07/15/2015 - 00:06:16: -------- Mapchange to de_dust2 --------
+L 07/15/2015 - 00:09:02: SourceMod log file session started (file "L20150715.log") (Version "1.7.2")
+L 07/15/2015 - 00:09:02: -------- Mapchange to de_dust2 --------
+L 07/15/2015 - 00:10:48: -------- Mapchange to de_dust2 --------
+L 07/15/2015 - 00:15:06: -------- Mapchange to de_dust2 --------
+L 07/15/2015 - 00:41:54: -------- Mapchange to de_dust2 --------
+L 07/15/2015 - 00:54:57: [SM] Changed map to "de_train"
+L 07/15/2015 - 00:55:06: -------- Mapchange to de_train --------
+L 07/15/2015 - 01:12:50: [SM] Changed map to "de_inferno"
+L 07/15/2015 - 01:12:53: -------- Mapchange to de_inferno --------
+L 07/15/2015 - 01:28:54: -------- Mapchange to de_inferno --------
+L 07/15/2015 - 13:40:42: -------- Mapchange to de_inferno --------
+L 07/15/2015 - 18:25:41: -------- Mapchange to de_inferno --------
+L 07/15/2015 - 20:07:43: -------- Mapchange to de_inferno --------
+L 07/15/2015 - 22:57:40: -------- Mapchange to de_inferno --------
+L 07/15/2015 - 23:44:52: -------- Mapchange to de_inferno --------
+L 07/15/2015 - 23:45:48: [funcommands.smx] "Wint3rmute<38><STEAM_1:1:14082357><>" set a FireBomb on "Wint3rmute<38><STEAM_1:1:14082357><>"
+L 07/15/2015 - 23:46:23: [funvotes.smx] "Wint3rmute<38><STEAM_1:1:14082357><>" initiated a gravity vote.
+L 07/15/2015 - 23:46:25: [funvotes.smx] Changing gravity to 1600 due to vote.
+L 07/15/2015 - 23:47:03: [funvotes.smx] "Wint3rmute<38><STEAM_1:1:14082357><>" initiated a gravity vote.
+L 07/15/2015 - 23:47:04: [funvotes.smx] Changing gravity to 200 due to vote.
+L 07/15/2015 - 23:47:36: [funvotes.smx] "Wint3rmute<38><STEAM_1:1:14082357><>" initiated a gravity vote.
+L 07/15/2015 - 23:47:38: [funvotes.smx] Changing gravity to 3200 due to vote.
+L 07/15/2015 - 23:48:09: [funvotes.smx] "Wint3rmute<38><STEAM_1:1:14082357><>" initiated a gravity vote.
+L 07/15/2015 - 23:48:11: [funvotes.smx] Changing gravity to 800 due to vote.
+L 07/15/2015 - 23:48:57: [basecommands.smx] "Wint3rmute<38><STEAM_1:1:14082357><>" executed config (file "server.cfg")
+L 07/15/2015 - 23:49:33: [basecommands.smx] "Wint3rmute<38><STEAM_1:1:14082357><>" changed map to "cs_motel"
+L 07/15/2015 - 23:49:36: [SM] Changed map to "cs_motel"
+L 07/15/2015 - 23:49:40: -------- Mapchange to cs_motel --------
