@@ -1,0 +1,151 @@
+L 07/18/2015 - 12:41:43: SourceMod error session started
+L 07/18/2015 - 12:41:43: Info (map "cs_office") (file "errors_20150718.log")
+L 07/18/2015 - 12:41:43: [retakes.smx] The retakes config file (addons/sourcemod/configs/retakes/cs_office.cfg) does not exist
+L 07/18/2015 - 12:49:01: Error log file session closed.
+L 07/18/2015 - 12:49:03: SourceMod error session started
+L 07/18/2015 - 12:49:03: Info (map "cs_office") (file "errors_20150718.log")
+L 07/18/2015 - 12:49:03: [retakes.smx] The retakes config file (addons/sourcemod/configs/retakes/cs_office.cfg) does not exist
+L 07/18/2015 - 13:52:51: Error log file session closed.
+L 07/18/2015 - 13:52:52: SourceMod error session started
+L 07/18/2015 - 13:52:52: Info (map "cs_office") (file "errors_20150718.log")
+L 07/18/2015 - 13:52:52: [retakes.smx] The retakes config file (addons/sourcemod/configs/retakes/cs_office.cfg) does not exist
+L 07/18/2015 - 14:51:14: Error log file session closed.
+L 07/18/2015 - 14:51:15: SourceMod error session started
+L 07/18/2015 - 14:51:15: Info (map "cs_office") (file "errors_20150718.log")
+L 07/18/2015 - 14:51:15: [retakes.smx] The retakes config file (addons/sourcemod/configs/retakes/cs_office.cfg) does not exist
+L 07/18/2015 - 14:52:27: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 14:52:27: [retakes.smx] Had to resort to fallback spawn on cs_office, site=0
+L 07/18/2015 - 14:52:27: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=2
+L 07/18/2015 - 14:52:45: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 14:52:45: [retakes.smx] Had to resort to fallback spawn on cs_office, site=0
+L 07/18/2015 - 14:52:45: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=2
+L 07/18/2015 - 14:53:03: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 14:53:03: [retakes.smx] Had to resort to fallback spawn on cs_office, site=0
+L 07/18/2015 - 14:53:03: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=2
+L 07/18/2015 - 14:53:08: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 14:57:45: Error log file session closed.
+L 07/18/2015 - 14:57:46: SourceMod error session started
+L 07/18/2015 - 14:57:46: Info (map "cs_office") (file "errors_20150718.log")
+L 07/18/2015 - 14:57:46: [retakes.smx] The retakes config file (addons/sourcemod/configs/retakes/cs_office.cfg) does not exist
+L 07/18/2015 - 14:58:36: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 14:58:36: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=1
+L 07/18/2015 - 14:58:54: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 14:58:54: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=1
+L 07/18/2015 - 14:59:06: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 14:59:06: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=1
+L 07/18/2015 - 14:59:06: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 14:59:15: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:00:08: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:00:18: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:00:18: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:00:54: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:01:00: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:01:01: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:01:11: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:01:13: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:01:14: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:01:16: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:01:26: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:01:31: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:01:37: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:01:39: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:01:42: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:01:50: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:01:55: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:01:58: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:23: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:24: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:27: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:28: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:29: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:30: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:31: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:32: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:33: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:34: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:35: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:36: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:36: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:37: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:37: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:37: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:38: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:38: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:38: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:38: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:38: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:38: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:39: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:39: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:39: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:40: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:40: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:40: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:40: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:40: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:41: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:41: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:42: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:44: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:44: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:44: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:44: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:02:49: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:35:41: Error log file session closed.
+L 07/18/2015 - 15:35:42: SourceMod error session started
+L 07/18/2015 - 15:35:42: Info (map "cs_office") (file "errors_20150718.log")
+L 07/18/2015 - 15:35:42: [retakes.smx] The retakes config file (addons/sourcemod/configs/retakes/cs_office.cfg) does not exist
+L 07/18/2015 - 15:36:12: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:36:12: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=1
+L 07/18/2015 - 15:36:30: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:36:30: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=1
+L 07/18/2015 - 15:36:48: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:36:48: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=1
+L 07/18/2015 - 15:37:06: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:37:06: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=1
+L 07/18/2015 - 15:37:24: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:37:24: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=1
+L 07/18/2015 - 15:37:42: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 15:37:42: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=1
+L 07/18/2015 - 15:37:47: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 17:37:01: Error log file session closed.
+L 07/18/2015 - 17:37:02: SourceMod error session started
+L 07/18/2015 - 17:37:02: Info (map "cs_office") (file "errors_20150718.log")
+L 07/18/2015 - 17:37:02: [retakes.smx] The retakes config file (addons/sourcemod/configs/retakes/cs_office.cfg) does not exist
+L 07/18/2015 - 17:37:32: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 17:37:32: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=1
+L 07/18/2015 - 17:37:50: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 17:37:50: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=1
+L 07/18/2015 - 17:38:08: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 17:38:08: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=1
+L 07/18/2015 - 17:38:26: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 17:38:26: [retakes.smx] Failed to get any spawn on cs_office, site=0, team=1
+L 07/18/2015 - 17:38:34: Error log file session closed.
+L 07/18/2015 - 20:55:54: SourceMod error session started
+L 07/18/2015 - 20:55:54: Info (map "cs_office") (file "errors_20150718.log")
+L 07/18/2015 - 20:55:54: [retakes.smx] The retakes config file (addons/sourcemod/configs/retakes/cs_office.cfg) does not exist
+L 07/18/2015 - 20:56:24: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 20:56:24: [retakes.smx] Had to resort to fallback spawn on cs_office, site=1
+L 07/18/2015 - 20:56:24: [retakes.smx] Failed to get any spawn on cs_office, site=1, team=2
+L 07/18/2015 - 20:56:24: [retakes.smx] Failed to get any spawn on cs_office, site=1, team=1
+L 07/18/2015 - 20:56:24: [retakes.smx] Failed to get any spawn on cs_office, site=1, team=1
+L 07/18/2015 - 20:56:31: Error log file session closed.
+L 07/18/2015 - 21:14:43: SourceMod error session started
+L 07/18/2015 - 21:14:43: Info (map "cs_italy") (file "errors_20150718.log")
+L 07/18/2015 - 21:14:43: [retakes.smx] The retakes config file (addons/sourcemod/configs/retakes/cs_italy.cfg) does not exist
+L 07/18/2015 - 21:15:13: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 21:15:13: [retakes.smx] Had to resort to fallback spawn on cs_italy, site=1
+L 07/18/2015 - 21:15:13: [retakes.smx] Failed to get any spawn on cs_italy, site=1, team=2
+L 07/18/2015 - 21:15:13: [retakes.smx] Failed to get any spawn on cs_italy, site=1, team=1
+L 07/18/2015 - 21:15:13: [retakes.smx] Failed to get any spawn on cs_italy, site=1, team=1
+L 07/18/2015 - 21:15:31: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 21:15:31: [retakes.smx] Had to resort to fallback spawn on cs_italy, site=1
+L 07/18/2015 - 21:15:31: [retakes.smx] Failed to get any spawn on cs_italy, site=1, team=2
+L 07/18/2015 - 21:15:31: [retakes.smx] Failed to get any spawn on cs_italy, site=1, team=1
+L 07/18/2015 - 21:15:31: [retakes.smx] Failed to get any spawn on cs_italy, site=1, team=1
+L 07/18/2015 - 21:15:49: [retakes.smx] This map does not have enough spawns!
+L 07/18/2015 - 21:15:49: [retakes.smx] Had to resort to fallback spawn on cs_italy, site=1
+L 07/18/2015 - 21:15:49: [retakes.smx] Failed to get any spawn on cs_italy, site=1, team=2
+L 07/18/2015 - 21:15:49: [retakes.smx] Failed to get any spawn on cs_italy, site=1, team=1
+L 07/18/2015 - 21:15:49: [retakes.smx] Failed to get any spawn on cs_italy, site=1, team=1
+L 07/18/2015 - 21:15:57: Error log file session closed.
